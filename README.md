@@ -1,6 +1,6 @@
 OASIS INFOBYTE — Data Analytics Internship
 
-This repository contains my projects completed during my Data Analytics Internship with OASIS INFOBYTE.
+This repository contains my projects completed during my Data Analytics Internship with OASIS INFOBYTE. @OASIS INFOBYTE
 
 Completed Tasks
 
